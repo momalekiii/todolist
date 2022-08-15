@@ -1,3 +1,3 @@
 # todolist using Javascript
-To-do list with Local Storage
-First project of Javascript, and just did this for fun :)
+To-do list with Local Storage is my
+first project of Javascript
